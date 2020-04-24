@@ -1,7 +1,7 @@
 # CoffinDance
 
 Download and put it in your resource folder, also put start coffindance in your server Setup!
-For questions, feedback and errors Please Contact me!
+For questions, feedback and errors Please Contact me! Needs a lot of Improvement, but its my first mod....
 
 
 ![main](Demo/main.gif)
