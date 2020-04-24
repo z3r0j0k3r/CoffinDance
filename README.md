@@ -11,6 +11,7 @@ Spawns on its own if you die!
 Spawn with /p1
 Reset with /p1reset
 
+![main](Demo/takePill.gif)
 
 Edit also the spawnmanager.lua 
 Edit this line:
